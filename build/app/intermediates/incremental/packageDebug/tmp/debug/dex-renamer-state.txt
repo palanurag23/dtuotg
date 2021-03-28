@@ -1,0 +1,4 @@
+#Fri Mar 26 21:47:37 PDT 2021
+base.0=D\:\\DTUOTG\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
